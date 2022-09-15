@@ -18,9 +18,10 @@ public class PoolDay {
         double priceAllUmbrellas = umbrellasNeeded * priceUmbrella;
         double entranceAllPeople = numberOfPeople * priceEntrance;
 
+
         double totalPriceToBePaid = priceAllDeckchairs + priceAllUmbrellas + entranceAllPeople;
 
-        System.out.println(totalPriceToBePaid + " lv.");
+        System.out.printf("%.2f lv.", totalPriceToBePaid);
 
     }
 }
