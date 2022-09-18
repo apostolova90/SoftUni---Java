@@ -1,4 +1,4 @@
-package MoreExercises;
+package FirstStepsInCoding.MoreExercises;
 
 import java.util.Scanner;
 
