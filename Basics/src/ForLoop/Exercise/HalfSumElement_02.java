@@ -1,9 +1,8 @@
 package ForLoop.Exercise;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
-public class HalfSumElement {
+public class HalfSumElement_02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
