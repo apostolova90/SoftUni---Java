@@ -1,4 +1,4 @@
-package Exams_Previous.July_2019;
+package Exams.July2019;
 
 import java.util.Scanner;
 
